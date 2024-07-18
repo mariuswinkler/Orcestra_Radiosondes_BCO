@@ -1,6 +1,7 @@
 dask_worker_space/
 *.nc
 *.mwx
+*.pdf
 .ipynb_checkpoints/
 **.log
 **/log
